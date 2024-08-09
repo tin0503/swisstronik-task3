@@ -1,2 +1,1 @@
-
-NFT ID 1 : https://explorer-evm.testnet.swisstronik.com/tx/0x58b350694186bba9418c6343f76c39e71d14f5a9218839ff215cb940a8695753
+NFT ID 1 : https://explorer-evm.testnet.swisstronik.com/tx/0xd65fccec071383ef7f50b3dc00cabb966e35340cd86df89590a8ca7e11058873
